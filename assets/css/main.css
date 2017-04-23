@@ -31,3 +31,9 @@
 #business-card .photo {
   width: 50%;
 }
+
+#business-card .gradient {
+  right: 50%;
+  width: 15%;
+  background: linear-gradient(to top left, #3C3C3B 50% , transparent 50%);
+}
