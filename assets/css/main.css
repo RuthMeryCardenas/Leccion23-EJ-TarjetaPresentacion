@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+
+}
+
+.pos-relative {
+  position: relative;
+}
+
+.pos-absolute {
+  position: absolute;
+}
+
+/*Carta de Presentación*/
+#business-card {
+  margin: 50px auto;
+  width: 774px;
+  height: 500px;
+  background-color: #3C3C3B;
+}
+
+.personal-information, .photo, .gradient {
+  height: 100%;
+}
+
+/*Foto de fondo*/
+#business-card .photo {
+  width: 50%;
+}
