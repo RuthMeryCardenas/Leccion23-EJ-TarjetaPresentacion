@@ -78,3 +78,11 @@ body {
   line-height: 2.5rem;
   white-space: pre;
 }
+
+/*Logo de Laboratoria*/
+#business-card .logo {
+  width: 60px;
+  height: 60px;
+  right: 0;
+  bottom: 0;
+}
